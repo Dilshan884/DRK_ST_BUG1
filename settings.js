@@ -2,13 +2,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50931461936"
+global.ownernomer = "94742876482"
 global.ownername = "🌹⃟⃢👑 ༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑"
 global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
 global.location = "America/Port-au-Prince"
 
-global.ownernumber = '50931461936'  //creator number
+global.ownernumber = '94742876482'  //creator number
 global.ownername = '𝙎-𝙏𝞢𝞜' //owner name
 global.botname = 'DRK_ST_BUG' //name of the bot
 
@@ -27,7 +27,7 @@ global.link = 'https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w'
 global.prefa = ['']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
@@ -57,7 +57,7 @@ global.mess = {
     botAdmin: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲  𝘂𝘀𝗲𝗱 𝘄𝗵𝗲𝗻 𝘁𝗵𝗲 𝗯𝗼𝘁 𝗶𝘀 𝗮 𝗴𝗿𝗼𝘂𝗽 𝗮𝗱𝗺𝗶𝗻',
     owner: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱 𝗯𝘆 𝗼𝘄𝗻𝗲𝗿 𝗼𝗻𝗹𝘆',
     group: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗶𝘀 𝗼𝗻𝗹𝘆 𝗳𝗼𝗿 𝗴𝗿𝗼𝘂𝗽𝘀',
-    private: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗶𝘀 𝗼𝗻𝗹𝘆 𝗳𝗼𝗿 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀',
+    public: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗶𝘀 𝗼𝗻𝗹𝘆 𝗳𝗼𝗿 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀',
     wait: '𝖕𝖑𝖊𝖆𝖘𝖊 𝖜𝖆𝖎𝖙... ',    
     error: '🚫 𝗘𝗿𝗿𝗼𝗿 !',
 }
